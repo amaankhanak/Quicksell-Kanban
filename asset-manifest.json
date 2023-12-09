@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quicksell-Kanban/static/css/main.b398f97d.css",
+    "main.js": "/Quicksell-Kanban/static/js/main.f4574723.js",
+    "index.html": "/Quicksell-Kanban/index.html",
+    "main.b398f97d.css.map": "/Quicksell-Kanban/static/css/main.b398f97d.css.map",
+    "main.f4574723.js.map": "/Quicksell-Kanban/static/js/main.f4574723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b398f97d.css",
+    "static/js/main.f4574723.js"
+  ]
+}
