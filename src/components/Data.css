@@ -1,0 +1,51 @@
+.data_main {
+  background-color: white;
+  border-radius: 5px;
+  padding: 15px 10px;
+  margin-bottom: 10px;
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(176, 176, 176, 1);
+  -moz-box-shadow: 0px 0px 5px 1px rgba(176, 176, 176, 1);
+  box-shadow: 0px 0px 5px 1px rgba(176, 176, 176, 1);
+}
+
+.id-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-container,
+.tag-container {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.title-div {
+  margin-left: 5px;
+}
+
+.data_cam {
+  color: gray;
+}
+
+.data_heading {
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.tag-container {
+  margin-top: 10px;
+  color: gray;
+}
+
+.feature_req {
+  font-size: 12px;
+  line-height: 16px;
+  margin-left: 5px;
+}
+
+.card-id {
+  color: gray;
+  margin: 0;
+}

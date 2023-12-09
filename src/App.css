@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
+body {
+  background-color: #f4f5f8;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.header {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 20px 20px;
+}
